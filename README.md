@@ -25,7 +25,7 @@ Como um bom apreciador de jogos em geral, hoje atribuirei a alguns personagens d
 <img src="https://farm2.staticflickr.com/1721/41076890350_85a097fa23_o.gif" width="1050" height="400">
 
 <img src="https://64.media.tumblr.com/7baca07cdba8f821f3061f9903bf32bf/8d9ebd1c1be25e90-55/s1280x1920/624ea5e4e42ff9953f34902ddc0e0743b0e6eb45.gif" width="500">
-<img src="https://64.media.tumblr.com/6eb06b958415dde4d427863a0812ec43/361d2bc0453a89e5-00/s540x810/1bc9b65f77c7b069e88f3fbd1a87e69eb6396036.gifv">
+<img src="https://64.media.tumblr.com/6eb06b958415dde4d427863a0812ec43/361d2bc0453a89e5-00/s540x810/1bc9b65f77c7b069e88f3fbd1a87e69eb6396036.gif">
 
 
 ### Links das imagens/gifs utilizadas na tabela
