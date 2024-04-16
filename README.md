@@ -24,8 +24,8 @@ Como um bom apreciador de jogos em geral, hoje atribuirei a alguns personagens d
 
 <img src="https://farm2.staticflickr.com/1721/41076890350_85a097fa23_o.gif" width="1000" height="400">
 
-<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/713af63f-c228-4bbd-8ed4-99e1153326e5" width="470">
-<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/3e71161a-231d-4615-8940-968ffa5235c5" width="510">
+<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/713af63f-c228-4bbd-8ed4-99e1153326e5" width="370">
+<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/3e71161a-231d-4615-8940-968ffa5235c5" width="410">
 
 
 ### Links das imagens/gifs utilizadas na tabela
