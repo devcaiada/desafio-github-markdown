@@ -21,12 +21,13 @@ Como um bom apreciador de jogos em geral, hoje atribuirei a alguns personagens d
 |[Black Dog Samurai](https://music.youtube.com/watch?v=kmt8WmTenVE) |[Friday Night Fire Fight](https://music.youtube.com/watch?v=2kgJy0kZGvE&list=OLAK5uy_l-QlBGP0y_UreQpmxE4NBnxfBgIeUphF4) |[On My Way To Hell](https://music.youtube.com/watch?v=DCbvbCbB0fE&list=OLAK5uy_k-yennWU9IJB_FfIXGR8XU6ilY7msBnK4) | [Major Crimes](https://music.youtube.com/watch?v=U6PSsSM1swQ&list=OLAK5uy_k-yennWU9IJB_FfIXGR8XU6ilY7msBnK4)
 
 ------------------------
-
+<p align="center">
 <img src="https://farm2.staticflickr.com/1721/41076890350_85a097fa23_o.gif" width="1000" height="400">
-
-<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/713af63f-c228-4bbd-8ed4-99e1153326e5" width="370">
+</p>
+<p align="center">
+<img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/713af63f-c228-4bbd-8ed4-99e1153326e5" width="380">
 <img src="https://github.com/iisrax/desafio-github-markdown/assets/167030006/3e71161a-231d-4615-8940-968ffa5235c5" width="410">
-
+</p>
 
 ### Links das imagens/gifs utilizadas na tabela
 
